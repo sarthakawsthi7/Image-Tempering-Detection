@@ -1,7 +1,7 @@
 streamlit==1.25.0
 opencv-python==4.5.5.64
 numpy==1.26.0
-scikit-image==0.25.2
+scikit-image==0.19.3
 Pillow==9.5.0
 pandas==2.2.3
 matplotlib==3.10.1
@@ -12,5 +12,3 @@ markdown-it-py==3.0.0
 mdurl==0.1.2
 pygments==2.19.1
 rich>=10.14.0,<14
-
-
