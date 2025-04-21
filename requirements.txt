@@ -11,5 +11,6 @@ tqdm==4.67.1
 markdown-it-py==3.0.0
 mdurl==0.1.2
 pygments==2.19.1
-rich==13.7.2
+rich>=10.14.0,<14
+
 
