@@ -1,16 +1,14 @@
-pip==25.0.1
 streamlit==1.25.0
 opencv-python==4.5.5.64
-numpy==1.24.2
-scikit-image==0.19.3
-Pillow==9.3.0
-scikit-learn==1.1.2
-tqdm==4.64.1
-matplotlib==3.5.1
-pandas==1.5.3
-altair==5.1.2
+numpy==1.26.0
+scikit-image==0.25.2
+Pillow==11.2.1
+pandas==2.2.3
+matplotlib==3.10.1
+altair==5.5.0
+scikit-learn==1.6.1
+tqdm==4.67.1
 markdown-it-py==3.0.0
 mdurl==0.1.2
 pygments==2.19.1
 rich==14.0.0
-setuptools==65.5.0  # Ensure setuptools is included for compatibility with distutils
