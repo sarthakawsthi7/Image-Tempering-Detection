@@ -8,3 +8,7 @@ tqdm==4.64.1
 matplotlib==3.5.1
 pandas==1.5.3
 altair==5.5.0  # Add this line to resolve the missing Altair module
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.19.1
+rich==14.0.0
